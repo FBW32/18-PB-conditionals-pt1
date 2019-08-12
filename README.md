@@ -14,7 +14,7 @@
 
 6. Check whether the sum of two integers is 8, or whether their difference is 8. If one of these is the case, print true.
 
-7. Check whether one of two integers is 15, or if their sum is 15. If one of these is the case, print true. 
+7. Check whether either one of two integers is 15, or if their sum is 15. If one of these is the case, print true. 
 
 8. Check whether one of two integers is a multiple of 7 or 11. If so, print true.
 
@@ -22,8 +22,4 @@
 
 10. Calculate the difference between a specified number and 19. Print double the difference if the specified number is greater than 19.
 
-11. BONUS CHALLENGE: Play around with each of your results, i.e., make sure they are dynamic to different inputs; is there a more efficient way of writing your code?; include line breaks and question headings in your output for script readability; etc. 
-
-
-
-
+11. BONUS CHALLENGE: Play around with each of your results, i.e., make sure they are dynamic to different inputs; is there a more efficient way of writing your code?; etc. 
