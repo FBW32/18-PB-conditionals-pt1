@@ -50,7 +50,7 @@ if (sum >= 50 && sum <= 80) {
 let q = 34;
 let w = 0;
 let sum1 = q + w;
-if (sum1 == 8 || sum1 != 8) {
+if  (sum1 == 8 || q - w == 8) {
   console.log("true");
 } else {
   console.log("false");
