@@ -11,8 +11,7 @@ if (InTheRange) {
 } else {
   console.log(`${integer1} and ${integer2} are not in the range of 50 and 90`);
 }
-
-/* 2. Check if three given integer values are in the range 50 to 99 (inclusive). Print true if one or more of them are in the range. */
+/* 2.Check if three given integer values are in the range 50 to 99 (inclusive). Print true if one or more of them are in the range. */
 
 let integer3 = 40;
 let integer4 = 50;
